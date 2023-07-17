@@ -11,6 +11,3 @@ Measuring human body by given two images......
 
 ## Results
 ![fig3](https://user-images.githubusercontent.com/67555058/109640026-f367fa80-7b75-11eb-8c29-992feaaf3987.png)
-
-
-# Code coming soon!!!!!
